@@ -1,0 +1,4 @@
+outs:
+- md5: 5100a816ebf8a71bacda380a6e047f2c
+  size: 1341
+  path: SGDClassifier_model.sav
