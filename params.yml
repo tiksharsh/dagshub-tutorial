@@ -1,17 +1,20 @@
 model:
-  C: 1.0
+  bootstrap: true
+  ccp_alpha: 0.0
   class_weight: null
-  dual: false
-  fit_intercept: true
-  intercept_scaling: 1
-  l1_ratio: null
-  max_iter: 100
-  multi_class: auto
+  criterion: gini
+  max_depth: null
+  max_features: sqrt
+  max_leaf_nodes: null
+  max_samples: null
+  min_impurity_decrease: 0.0
+  min_samples_leaf: 1
+  min_samples_split: 2
+  min_weight_fraction_leaf: 0.0
+  n_estimators: 100
   n_jobs: null
-  penalty: l2
+  oob_score: false
   random_state: 42
-  solver: lbfgs
-  tol: 0.0001
   verbose: 0
   warm_start: false
-model_class: LogisticRegression
+model_class: RandomForestClassifier
