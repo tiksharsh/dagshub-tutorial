@@ -1,0 +1,11 @@
+pandas
+numpy
+xgboost
+scikit-learn
+catboost
+dill
+dagshub
+-e .
+
+# Comment -e . and execute below command in terminal 
+# python -m pip install -r requirements.txt

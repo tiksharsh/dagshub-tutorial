@@ -1,0 +1,5 @@
+[ 2023-03-17 00:42:02,548 ] 90 root - INFO - Indside Model_run exception!! 'str' object is not callable
+[ 2023-03-17 00:42:02,556 ] 90 root - INFO - Indside Model_run exception!! 'str' object is not callable
+[ 2023-03-17 00:42:02,565 ] 90 root - INFO - Indside Model_run exception!! 'str' object is not callable
+[ 2023-03-17 00:42:02,572 ] 90 root - INFO - Indside Model_run exception!! 'str' object is not callable
+[ 2023-03-17 00:42:02,573 ] 104 root - INFO - Result: [None, None, None, None]

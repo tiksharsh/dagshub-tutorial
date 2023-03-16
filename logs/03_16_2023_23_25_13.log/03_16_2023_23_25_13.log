@@ -1,0 +1,19 @@
+[ 2023-03-16 23:25:13,591 ] 52 root - INFO - Model RandomForestClassifier(random_state=42)/n
+[ 2023-03-16 23:25:13,592 ] 53 root - INFO - --------------------------------------------------------------------------------
+[ 2023-03-16 23:25:13,810 ] 61 root - INFO - rfc RandomForestClassifier(random_state=42)/n
+[ 2023-03-16 23:25:13,810 ] 62 root - INFO - --------------------------------------------------------------------------------
+[ 2023-03-16 23:25:13,827 ] 66 root - INFO - y_pred ['Iris-versicolor' 'Iris-setosa' 'Iris-virginica' 'Iris-versicolor'
+ 'Iris-virginica' 'Iris-setosa' 'Iris-versicolor' 'Iris-virginica'
+ 'Iris-versicolor' 'Iris-versicolor' 'Iris-virginica' 'Iris-setosa'
+ 'Iris-setosa' 'Iris-setosa' 'Iris-setosa' 'Iris-versicolor'
+ 'Iris-virginica' 'Iris-versicolor' 'Iris-versicolor' 'Iris-virginica'
+ 'Iris-setosa' 'Iris-virginica' 'Iris-setosa' 'Iris-virginica'
+ 'Iris-virginica' 'Iris-virginica' 'Iris-virginica' 'Iris-virginica'
+ 'Iris-setosa' 'Iris-setosa' 'Iris-setosa' 'Iris-setosa' 'Iris-versicolor'
+ 'Iris-setosa' 'Iris-setosa' 'Iris-versicolor' 'Iris-versicolor'
+ 'Iris-setosa' 'Iris-setosa' 'Iris-setosa' 'Iris-virginica'
+ 'Iris-versicolor' 'Iris-versicolor' 'Iris-setosa' 'Iris-setosa']
+
+[ 2023-03-16 23:25:13,827 ] 67 root - INFO - --------------------------------------------------------------------------------
+[ 2023-03-16 23:25:13,830 ] 71 root - INFO - {'accuracy': 0.956}
+[ 2023-03-16 23:25:13,832 ] 72 root - INFO - --------------------------------------------------------------------------------

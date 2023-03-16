@@ -1,0 +1,4 @@
+[ 2023-03-17 00:31:18,574 ] 96 root - INFO - Indside Model_run exception!! 'RandomForestClassifier' object is not callable
+[ 2023-03-17 00:31:18,576 ] 96 root - INFO - Indside Model_run exception!! 'DecisionTreeClassifier' object is not callable
+[ 2023-03-17 00:31:18,580 ] 96 root - INFO - Indside Model_run exception!! 'LogisticRegression' object is not callable
+[ 2023-03-17 00:31:18,583 ] 96 root - INFO - Indside Model_run exception!! 'SGDClassifier' object is not callable
