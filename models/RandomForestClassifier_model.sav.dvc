@@ -1,0 +1,4 @@
+outs:
+- md5: a4916020a488828c47d1b99bc643a95c
+  size: 278110
+  path: RandomForestClassifier_model.sav
