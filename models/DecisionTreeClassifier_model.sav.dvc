@@ -1,0 +1,4 @@
+outs:
+- md5: c71ae1faa9984043672da7e6f1bbe164
+  size: 3229
+  path: DecisionTreeClassifier_model.sav
