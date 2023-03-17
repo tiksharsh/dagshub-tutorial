@@ -101,7 +101,7 @@ if __name__ == "__main__":
             ]
     
      obj = ModelTrainer()
-     accuracy = obj.model_run(LogisticRegression)
+     accuracy = obj.model_run(SGDClassifier)
     #  result = [obj.model_run(model_name) for model_name in models]
      logging.info(f'Accuracy: {accuracy}')
     
