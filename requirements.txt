@@ -5,6 +5,7 @@ scikit-learn
 catboost
 dill
 dagshub
+pyyaml
 -e .
 
 # Comment -e . and execute below command in terminal 
